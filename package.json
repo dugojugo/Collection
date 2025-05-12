@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "apify-cli": "^0.21.6",
+    "apify-client": "^2.12.3"
+  }
+}
