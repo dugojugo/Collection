@@ -10,7 +10,7 @@ import csv
 from apify import Actor
 from apify_client import ApifyClient
 
-API_TOKEN = "apify_api_YFxQb7y3a47xEzPcNNouQBVYZL2dJX3fXQ1u"
+API_TOKEN = ""
 ACTOR_ID = "dbEyMBriog95Fv8CW"
 CSV_FILENAME = "actor_results.csv"
 
